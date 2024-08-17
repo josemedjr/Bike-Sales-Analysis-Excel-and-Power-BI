@@ -10,6 +10,9 @@ After cleaning and customizing the data, I generate Pivot Tables and charts to i
 
 I then create a line chart to explore the correlation between commute duration and motorcycle ownership. Finally, I use another line chart to examine how motorcycle ownership varies across different age brackets.
 
+Finally, I developed a dashboard to visually present the various charts I created. This dashboard features interactive sliders that allow users to filter the charts by Marital Status, Region, and Education, providing a dynamic way to analyze and explore the data.
+
+
 
 ## Power BI
 
