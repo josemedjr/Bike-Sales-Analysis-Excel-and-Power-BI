@@ -15,4 +15,7 @@ Finally, I developed a dashboard to visually present the various charts I create
 
 
 ## Power BI
+In Power BI, I began by transforming the data before creating any visualizations. I removed duplicates and updated the values in the "Marital Status" and "Gender" columns. Next, I created a new "Age Brackets" column by grouping the "Age" data into bins representing different decades, such as 20s, 30s, 40s, etc.
+
+For the visualizations, I first designed a treemap that serves as a filter for all other visuals based on the Region. I then developed various visualizations to analyze motorcycle purchases, exploring factors such as marital status, income, age bracket, home ownership, and more.
 
